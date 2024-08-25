@@ -1,6 +1,8 @@
+<!--
+
 ## Hi there 👋
 
-<!--
+
 **CuteNPC/CuteNPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Wenhan Ma
+
+Undergraduate student at School of EECS, Peking University (2021 - 2025)
+
+Interested in NLP, LLM and ML.
