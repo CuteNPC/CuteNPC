@@ -21,4 +21,8 @@ Wenhan Ma
 
 Undergraduate student at School of EECS, Peking University (2021 - 2025)
 
-Interested in NLP, LLM and ML.
+Major: Computer Science and Technology
+
+Interested in Large Language Model and Machine Learning
+
+Email: mawenhan@stu.pku.edu.cn
