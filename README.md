@@ -23,8 +23,6 @@ My research area is large language models.
 
 Recently, I have been focusing on enhancing the reasoning capabilities of large language models.
 
-I am currently interning as an Algorithm Engineer at Xiaomi LLM-Core Team.
-
 I received my Bachelor's degree from the School of Electronics Engineering and Computer Science at Peking University, majoring in Computer Science and Technology.
 
 Email: mawenhan@stu.pku.edu.cn
