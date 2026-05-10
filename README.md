@@ -26,3 +26,5 @@ Recently, I have been focusing on enhancing the reasoning capabilities of large 
 I received my Bachelor's degree from the School of Electronics Engineering and Computer Science at Peking University, majoring in Computer Science and Technology.
 
 Email: mawenhan@stu.pku.edu.cn
+
+WeChat: cute_npc (一只呆萌的NPC)
